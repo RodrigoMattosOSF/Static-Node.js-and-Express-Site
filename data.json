@@ -1,0 +1,69 @@
+{
+    "projects" : [
+        {
+            "id"           : 0,
+            "project_name" : "A Random Quote Generator",
+            "description"  : "Unit 1 - A Random Quote Generator",
+            "technologies" : [ "JavaScript", "HTML" ],
+            "live_link"    : "https://rodrigomattososf.github.io/A-Random-Quote-Generator/",
+            "github_link"  : "https://github.com/RodrigoMattosOSF/A-Random-Quote-Generator",
+            "image_urls"   : [
+                "/static/images/random-quote-1.png",
+                "/static/images/random-quote-2.png",
+                "/static/images/random-quote-3.png"
+            ]
+        },
+        {
+            "id"           : 1,
+            "project_name" : "List Pagination and Filtering",
+            "description"  : "Unit 2 - List Pagination and Filtering",
+            "technologies" : [ "JavaScript", "HTML", "DOM", "ES2015" ],
+            "live_link"    : "https://rodrigomattososf.github.io/List-Pagination-and-Filtering/",
+            "github_link"  : "https://github.com/RodrigoMattosOSF/List-Pagination-and-Filtering",
+            "image_urls"   : [
+                "/static/images/pagination-filtering-1.png",
+                "/static/images/pagination-filtering-2.png",
+                "/static/images/pagination-filtering-3.png"
+            ]
+        },
+        {
+            "id"           : 2,
+            "project_name" : "Interactive Form",
+            "description"  : "Unit 3 - Interactive Form",
+            "technologies" : [ "JavaScript", "HTML", "DOM", "ES2015", "jQuery" ],
+            "live_link"    : "https://rodrigomattososf.github.io/Interactive-Form/",
+            "github_link"  : "https://github.com/RodrigoMattosOSF/Interactive-Form",
+            "image_urls"   : [
+                "/static/images/interactive-form-1.png",
+                "/static/images/interactive-form-2.png",
+                "/static/images/interactive-form-3.png"
+            ]
+        },
+        {
+            "id"           : 3,
+            "project_name" : "OOP Game Show App",
+            "description"  : "Unit 4 - OOP Game Show App",
+            "technologies" : [ "JavaScript", "HTML", "DOM", "ES2015", "jQuery" ],
+            "live_link"    : "https://rodrigomattososf.github.io/OOP-Game-Show-App/",
+            "github_link"  : "https://github.com/RodrigoMattosOSF/OOP-Game-Show-App",
+            "image_urls"   : [
+                "/static/images/game-show-1.png",
+                "/static/images/game-show-2.png",
+                "/static/images/game-show-3.png"
+            ]
+        },
+        {
+            "id"           : 4,
+            "project_name" : "Public API Requests",
+            "description"  : "Unit 5 - Public API Requests",
+            "technologies" : [ "JavaScript", "HTML", "DOM", "ES2015", "jQuery", "HTTP", "AJAX", "RESTApi", "API"],
+            "live_link"    : "https://rodrigomattososf.github.io/Public-API-Requests/",
+            "github_link"  : "https://github.com/RodrigoMattosOSF/Public-API-Requests",
+            "image_urls"   : [
+                "/static/images/public-api-1.png",
+                "/static/images/public-api-2.png",
+                "/static/images/public-api-3.png"
+            ]
+        }
+    ]
+}

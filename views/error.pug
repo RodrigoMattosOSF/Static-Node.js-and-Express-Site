@@ -1,0 +1,8 @@
+extends layout.pug
+
+block content 
+  article.grid-container.portfolio-intro
+    div
+
+      h1= `${error.status} - ${error.message}`
+      p #{error.stack}

@@ -1,0 +1,26 @@
+{
+  "name": "static-node-express",
+  "version": "1.0.0",
+  "description": "portfolio site to show off the projects you've built.",
+  "main": "app.js",
+  "scripts": {
+    "test"  : "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoMattosOSF/Static-Node.js-and-Express-Site.git"
+  },
+  "author": "Rodrigo Mattos OSF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoMattosOSF/Static-Node.js-and-Express-Site/issues"
+  },
+  "homepage": "https://github.com/RodrigoMattosOSF/Static-Node.js-and-Express-Site#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
